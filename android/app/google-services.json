@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "821747544337",
+    "project_id": "test-35f1a",
+    "storage_bucket": "test-35f1a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821747544337:android:b7a9527b557b7b18355cb0",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821747544337-9bsdbspsv4gni9l3fulnf6svssj3e0u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjVNglB-hkU0xhAjcyoavsagaI5PBEpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821747544337-9bsdbspsv4gni9l3fulnf6svssj3e0u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821747544337-2pgkgajlelj4os6u79maulvi2crflplk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.medpaldevtest1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821747544337:android:38c567e0619cbcbe355cb0",
+        "android_client_info": {
+          "package_name": "com.mycompany.medpaldevtest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821747544337-9bsdbspsv4gni9l3fulnf6svssj3e0u9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJjVNglB-hkU0xhAjcyoavsagaI5PBEpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821747544337-9bsdbspsv4gni9l3fulnf6svssj3e0u9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821747544337-2pgkgajlelj4os6u79maulvi2crflplk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.medpaldevtest1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
